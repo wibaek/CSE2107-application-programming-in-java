@@ -3,7 +3,7 @@ package com.wibaek.week3;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Program04 {
+public class Lab03_4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[][] arr = new int[2][3];

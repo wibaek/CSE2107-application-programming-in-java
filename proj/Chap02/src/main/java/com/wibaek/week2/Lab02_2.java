@@ -1,6 +1,6 @@
 //package com.wibaek.week2;
 
-public class Program02 {
+public class Lab02_2 {
     public static void main(String[] args) {
         byte b1 = 60;
         byte b2 = 70;

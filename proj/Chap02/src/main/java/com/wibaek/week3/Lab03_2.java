@@ -1,9 +1,8 @@
 package com.wibaek.week3;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Program02 {
+public class Lab03_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

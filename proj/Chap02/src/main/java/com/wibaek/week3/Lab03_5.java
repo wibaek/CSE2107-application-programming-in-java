@@ -1,9 +1,8 @@
 package com.wibaek.week3;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Program05 {
+public class Lab03_5 {
     public static void main(String[] args) {
         int[][] arr = makeArray();
 
