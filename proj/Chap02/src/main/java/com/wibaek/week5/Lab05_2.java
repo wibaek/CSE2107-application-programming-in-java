@@ -1,4 +1,4 @@
-package com.wibaek.week5;
+//package com.wibaek.week5;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,8 +12,12 @@ public class Lab05_2 {
         Device_2[] devices = new Device_2[] { s22, mp3, tv };
 
         for (Device_2 device : devices) {
-            System.out.println(device.getInFor());
+            printInfor(device);
         }
+    }
+
+    private static void printInfor(Device_2 device) {
+        System.out.println(device.getInFor());
     }
 }
 
@@ -22,8 +26,7 @@ class Device_2 {
     private int year;
 
     Device_2(String name, int year) {
-        this.name = name;
-        this.year = year;
+        this.name = name; this.year = year;
     }
 
     public String getInFor() {
@@ -32,7 +35,7 @@ class Device_2 {
 }
 
 class S22_2 extends Device_2 {
-    private final int price = 1400;
+    private static final int price = 1400;
     S22_2(String name, int year) {
         super(name, year);
     }
@@ -44,7 +47,7 @@ class S22_2 extends Device_2 {
 }
 
 class MP3_2 extends Device_2 {
-    private final int price = 120;
+    private static final int price = 120;
     MP3_2(String name, int year) {
         super(name, year);
     }
@@ -56,7 +59,7 @@ class MP3_2 extends Device_2 {
 }
 
 class TV_2 extends Device_2 {
-    private final int price = 5000;
+    private static final int price = 5000;
     TV_2(String name, int year) {
         super(name, year);
     }

@@ -1,20 +1,32 @@
-package com.wibaek.week5;
+//package com.wibaek.week5;
 
 public class Lab05_4 {
     public static void main(String[] args) {
+        S22_4 s22 = new S22_4("S22");
+        MP3_4 mp3 = new MP3_4("MP3");
 
+        USB_4[] hub = new USB_4[] {s22, mp3};
+        for (USB_4 u : hub) {
+            connect(u);
+            readUSB(u);
+            writeUSB(u);
+        }
     }
 
-    public void readUSB(USB_4 usb) {
-        System.out.print(usb.getName() + ": ");
+    public static void readUSB(USB_4 usb) {
         usb.readUSB();
     }
-    public void writeUSB(USB_4 usb) {
+
+    public static void writeUSB(USB_4 usb) {
         usb.writeUSB();
     }
-    public void connectUSB(USBA_4 usb) {
+
+    public static void connect(USB_4 usb) {
         if(usb instanceof USBA_4) {
             ((USBA_4) usb).connectA();
+        }
+        if(usb instanceof USBC_4) {
+            ((USBC_4) usb).connectC();
         }
     }
 }
@@ -49,6 +61,7 @@ interface USBC_4 extends USB_4 {
     }
 }
 
+
 class S22_4 implements USBC_4 {
     private String name;
 
@@ -56,19 +69,41 @@ class S22_4 implements USBC_4 {
         this.name = name;
     }
 
-    public String getName() {
-        return name;
+    @Override
+    public void readUSB() {
+        System.out.print("S22: ");
+        USBC_4.super.readUSB();
+    }
+
+    @Override
+    public void writeUSB() {
+        System.out.print("S22: ");
+        USBC_4.super.writeUSB();
+    }
+
+    @Override
+    public void connectC() {
+        System.out.print("S22: ");
+        USBC_4.super.connectC();
     }
 }
 
-class MP3 implements USBA_4 {
+class MP3_4 implements USBA_4 {
     private String name;
 
-    MP3(String name) {
+    MP3_4(String name) {
         this.name = name;
     }
 
-    public String getName() {
-        return name;
+    @Override
+    public void readUSB() {
+        System.out.print("MP3: ");
+        USBA_4.super.readUSB();
+    }
+
+    @Override
+    public void connectA() {
+        System.out.print("MP3: ");
+        USBA_4.super.connectA();
     }
 }
