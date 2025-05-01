@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9d2d063-4e6f-413a-9712-2524ad931db1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CSE2107-application-programming-in-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/FirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week2/Lab02_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week2/Lab02_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week2/Lab02_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week2/Lab02_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week2/Lab02_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week2/Lab02_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week2/Lab02_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week2/Lab02_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week3/Lab03_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week3/Lab03_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week3/Lab03_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week3/Lab03_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week3/Lab03_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week3/Lab03_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week3/Lab03_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week3/Lab03_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week3/Lab03_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week3/Lab03_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week4/Lab04_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week4/Lab04_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week4/Lab04_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week4/Lab04_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week4/Lab04_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week4/Lab04_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week4/Lab04_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week4/Lab04_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week5/Lab05_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week5/Lab05_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week5/Lab05_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week5/Lab05_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week5/Lab05_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week5/Lab05_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week5/Lab05_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week5/Lab05_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week5/Lab05_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week5/Lab05_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/Lab06_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/Lab06_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/Lab06_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/Lab06_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/Lab06_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/Lab06_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/Lab06_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/Lab06_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/Lab06_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/Lab06_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/device/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/device/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/device/MP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/device/MP3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/device/S22.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/device/S22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/device/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/device/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/hub/USBhub.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/hub/USBhub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/usb/USB.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/usb/USB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/usb/USBA.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/usb/USBA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6/usb/USBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week6/usb/USBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week7/Lab07_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week7/Lab07_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week7/Lab07_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week7/Lab07_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week7/Lab07_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week7/Lab07_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week7/Lab07_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week7/Lab07_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week9/Lab09_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week9/Lab09_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week9/Lab09_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week9/Lab09_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week9/Lab09_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week9/Lab09_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week9/Lab09_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week9/Lab09_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week9/Lab09_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/APIJ/src/main/java/com/wibaek/week9/Lab09_5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/proj/Chap02">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Chap02" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2uCNetZi6CMJNnxonnibkkvZUR0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Chap02 [:com.wibaek.week2.Program02.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week2.Program03.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week2.Program04.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week2.Program1.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week3.Program01.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week3.Program02.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week3.Program03.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week3.Program04.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week3.Program05.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week4.Lab04_1.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week4.Lab04_2.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week4.Lab04_3.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week4.Lab04_4.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week5.Lab05_2.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week5.Lab05_5.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week6.Lab06_1.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week6.Lab06_2.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week6.Lab06_3.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week6.Lab06_4.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week6.Lab06_5.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week7.Lab07_1.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week7.Lab07_2.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week7.Lab07_3.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week7.Lab07_4.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week9.Lab09_1.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week9.Lab09_2.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week9.Lab09_3.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week9.Lab09_4.main()].executor": "Run",
+    "Gradle.Chap02 [:com.wibaek.week9.Lab09_5.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/wibaek/dev/CSE2107-application-programming-in-java/proj/Chap02/src/main/java/com/wibaek/week9",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week9" />
+      <recent name="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week7" />
+      <recent name="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week6" />
+      <recent name="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/week5" />
+      <recent name="$PROJECT_DIR$/proj/Chap02/src/main/java/com/wibaek/" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wibaek.week9" />
+      <recent name="com.wibaek.week7" />
+      <recent name="com.wibaek.week6" />
+      <recent name="com.wibaek.week3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9d2d063-4e6f-413a-9712-2524ad931db1" name="Changes" comment="" />
+      <created>1727455848624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727455848624</updated>
+      <workItem from="1727455850131" duration="21000" />
+      <workItem from="1741748696755" duration="1468000" />
+      <workItem from="1741831282025" duration="189000" />
+      <workItem from="1741831553101" duration="1596000" />
+      <workItem from="1742352616518" duration="1931000" />
+      <workItem from="1742437045571" duration="1455000" />
+      <workItem from="1742954542520" duration="4537000" />
+      <workItem from="1743044637082" duration="664000" />
+      <workItem from="1743158919948" duration="5000" />
+      <workItem from="1743559323210" duration="4628000" />
+      <workItem from="1743637516727" duration="599000" />
+      <workItem from="1744013795269" duration="56000" />
+      <workItem from="1744164454916" duration="5394000" />
+      <workItem from="1744250715411" duration="2487000" />
+      <workItem from="1744768983496" duration="3361000" />
+      <workItem from="1745979227346" duration="2044000" />
+      <workItem from="1745981491852" duration="1383000" />
+      <workItem from="1746065069089" duration="3428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
