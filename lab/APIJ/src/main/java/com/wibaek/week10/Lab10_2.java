@@ -2,12 +2,9 @@ package com.wibaek.week10;
 
 import javax.swing.*;
 import java.awt.*;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
 
 class CalcButtons extends JPanel {
+
     CalcButtons() {
         setLayout(new GridLayout(4, 4, 5, 5));
         String[] buttons = {
@@ -20,8 +17,7 @@ class CalcButtons extends JPanel {
             JButton jButton = new JButton(buttons[i]);
             if (i >= 12) {
                 jButton.setBackground(Color.CYAN);
-            }
-            else {
+            } else {
                 jButton.setBackground(Color.LIGHT_GRAY);
             }
             jButton.setOpaque(true);
@@ -32,6 +28,7 @@ class CalcButtons extends JPanel {
 }
 
 class CalcFrame extends JFrame {
+
     CalcFrame() {
         super("Calculator Frame");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -56,12 +53,13 @@ class CalcFrame extends JFrame {
         JPanel calcButtons = new CalcButtons();
         c.add(calcButtons, BorderLayout.CENTER);
 
-        setSize(900,300);
+        setSize(900, 300);
         setVisible(true);
     }
 }
 
 public class Lab10_2 {
+
     public static void main(String[] args) {
         JFrame frame = new CalcFrame();
     }
