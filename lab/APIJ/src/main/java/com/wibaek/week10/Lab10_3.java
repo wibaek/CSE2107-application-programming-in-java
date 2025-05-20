@@ -36,7 +36,7 @@ class ClickCFrame extends JFrame {
         setVisible(true);
     }
 
-    class CClickListener extends MouseAdapter {
+    private class CClickListener extends MouseAdapter {
         public void mousePressed(MouseEvent e) {
             int x = getRandomXCoord();
             int y = getRandomYCoord();
